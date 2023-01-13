@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlockVariantGroups>
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="LargeGridSmallAntennaDish" />
+            <Icon>Textures\GUI\Icons\Small Antenna Dish.dds</Icon>
+            <DisplayName>Large Grid Small Antenna Dish</DisplayName>
+            <Description>Large Grid Small Antenna Dish</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_RadioAntenna" Subtype="LargeBlockSmallAntennaDish" />
+            </Blocks>
+        </BlockVariantGroup>
+    </BlockVariantGroups>
+</Definitions>
